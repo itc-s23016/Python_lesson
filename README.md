@@ -1,2 +1,2 @@
-# Python_lesson
+# Paiza
 Pythonの練習
