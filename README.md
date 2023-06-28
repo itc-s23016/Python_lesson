@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#paiza
+# paiza
 ## スクリーンショット
 ![CodeGirl Collection](Codegirl.png)
 ![Koisuru Hakkason](./koisuru.png)
@@ -22,4 +21,3 @@
 - [水着](./mizugi.py)
 - [マイク](./maiku.py)
 - [カチューシャ](./katyusya.py)
->>>>>>> origin/main
