@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # paiza
 ## スクリーンショット
 ![CodeGirl Collection](Codegirl.png)
@@ -21,3 +22,7 @@
 - [水着](./mizugi.py)
 - [マイク](./maiku.py)
 - [カチューシャ](./katyusya.py)
+=======
+# Paiza
+Pythonの練習
+>>>>>>> origin/main
